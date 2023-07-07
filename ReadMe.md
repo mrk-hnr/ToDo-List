@@ -1,5 +1,5 @@
 # To Do List
-A simple To Do list project/exercise that allowed me to put what I learn (so far)into practice.
+A simple To Do list project/exercise that allowed me to put what I have learned into practice.
 
 **Check it [here](https://hnr-todolist.netlify.app)!**
 
